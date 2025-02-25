@@ -6,4 +6,5 @@ The app offers additional functionality such as setting task priorities, categor
 # About Me:
 Faria Nowsin Aurthy <br/>
 Semester : 3rd <br/>
+Email : farianowsin13614@gmail.com <br/>
 University : Shanto-Mariam University Of Creative Technology <br/>
